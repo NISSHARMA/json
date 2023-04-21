@@ -1,9 +1,46 @@
 {
-    "todo": [
+    "dogs": [
         {
-            "id": 1,
-            "title": "learn json-server",
-            "author": "Mrinmay Mukherjee"
+            "name": "Merry",
+            "age": "6",
+            "gender": "Male",
+            "city": "Pune",
+            "id": 3
+        },
+        {
+            "name": "Tommy",
+            "age": "3",
+            "gender": "Male",
+            "city": "Pune",
+            "id": 4
+        },
+        {
+            "name": "Piyush",
+            "age": "1",
+            "gender": "Male",
+            "city": "Deulgaon Raja",
+            "id": 6
+        },
+        {
+            "name": "Puppy",
+            "age": "2",
+            "gender": "Female",
+            "city": "Nagpur",
+            "id": 7
+        },
+        {
+            "name": "Sheru",
+            "age": "1",
+            "gender": "Male",
+            "city": "Mumbai",
+            "id": 8
+        },
+        {
+            "name": "Nisha",
+            "age": "4",
+            "gender": "Female",
+            "city": "Pune",
+            "id": 9
         }
     ]
 }
